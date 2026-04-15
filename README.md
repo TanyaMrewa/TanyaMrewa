@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🪞I'm a final-year Computer Science student who codes like an engineer but thinks like a marketer. My curiosity doesn't switch off — I build things, break them (ethically), and obsess over why people actually use them.<br><br>🎯 I live at the intersection of design, AI, cybersecurity, and data. Clean interfaces, secure backends, human experiences.<br><br>🔎 Outside the terminal? I review beauty products, analyze marketing campaigns, and track what makes people stop scrolling. That eye for detail — why a lipstick shade works, why a button converts — flows into every project I build.<br><br>
+<br>I'm a final-year Computer Science student who codes like an engineer but thinks like a marketer. My curiosity doesn't switch off, I build things, break them (ethically), and obsess over why people actually use them.<br> I live at the intersection of design, AI, cybersecurity, and data. Clean interfaces, secure backends, human experiences.<br>Outside the terminal? I review beauty products, analyze marketing campaigns, and track what makes people stop scrolling. That eye for detail, why a lipstick shade works, why a button converts... flows into every project I build.<br><br>
 
 
 ## 🌐 Socials:
