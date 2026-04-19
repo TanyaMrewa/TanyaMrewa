@@ -1,5 +1,7 @@
 # 💫 About Me:
-<br>I'm a final-year Computer Science student who codes like an engineer but thinks like a marketer. My curiosity doesn't switch off, I build things, break them (ethically), and obsess over why people actually use them.<br> I live at the intersection of design, AI, cybersecurity, and data. Clean interfaces, secure backends, human experiences.<br>Outside the terminal? I review beauty products, analyze marketing campaigns, and track what makes people stop scrolling. That eye for detail, why a lipstick shade works, why a button converts... flows into every project I build.<br><br>
+<br>Final-year Computer Science student with a practical approach to building things that actually work. I’m interested in AI, cybersecurity, data, and design, and I prefer working across these areas rather than sticking to just one.
+I learn best by doing, building projects, testing limits, and figuring out what works and what doesn’t. I focus on both sides of development, how something functions and how people actually experience it.
+Outside of tech, I pay attention to trends in beauty and marketing, especially what catches attention and why. That perspective carries into my work, so I naturally focus on detail, usability, and what makes people engage with a product.<br><br>
 
 
 ## 🌐 Socials:
